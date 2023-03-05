@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
+
+#### [Should these selected community members be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=bcec8570-b6b0-11ed-99e0-b5bb1e9f1959)
+
+* YES 4.5743402064285545% 213,484 VP (37 votes)
+* NO 95.18083389936555% 4,442,080 VP (144 votes)
+* Invalid question/options 0.24482589420590145% 11,426 VP (4 votes)
+
 
 
 # Active Proposals
@@ -56,6 +63,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Increase DAO Security: SAB Upgrade](https://governance.decentraland.org/proposal/?id=da7d4290-bac1-11ed-8c13-518b5c1940be)
 * [Should Decentraland Worlds be integrated with Events and Places?](https://governance.decentraland.org/proposal/?id=4fcffbc0-b9d0-11ed-8c13-518b5c1940be)
 * [Should videos be played fluently from the distance too, to enhance the quality of the user experience and to attract new users?](https://governance.decentraland.org/proposal/?id=ff8e0c50-b9b2-11ed-95dc-afd12ca00986)
 * [Code of Ethics (conduct)](https://governance.decentraland.org/proposal/?id=fb54ea30-b928-11ed-95dc-afd12ca00986)
@@ -63,6 +71,5 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [make it a dubble click or get ride of it, its so anouing when u try to click and some one thing and someones invintory pops up, who appprovedclick inventory sh.it????](https://governance.decentraland.org/proposal/?id=4bc80d20-b8d5-11ed-95dc-afd12ca00986)
 * [Should We Set Term Limits for Grant Support Squad?](https://governance.decentraland.org/proposal/?id=858970d0-b7a4-11ed-9cbc-e93d98a2df52)
 * [Should we diversify the DAO&#39;s treasury exposure to $MANA? V2](https://governance.decentraland.org/proposal/?id=d5bcb050-b76b-11ed-99e0-b5bb1e9f1959)
-* [Should these selected community members be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=bcec8570-b6b0-11ed-99e0-b5bb1e9f1959)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
