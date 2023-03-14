@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,23 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
+
+#### [Formal Pathway for DAO Request for Information (RFI) from the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=57d7a630-be38-11ed-8c13-518b5c1940be)
+
+* Yes, Vote in Favor of RFI Pathway (only) 0.2962649455084118% 2,576 VP (104 votes)
+* Yes, Vote in Favor of Interim Feature Request Response Pathway Only 0.00011500968381537724% 1 VP (8 votes)
+* Yes, Vote in Favor of Both RFI &amp; Feature Request Response Pathways 68.64997032750158% 596,906 VP (58 votes)
+* No, Vote against Promoting to Draft Proposal 31.053649717306197% 270,009 VP (18 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should the DAO Buy Back LAND?](https://governance.decentraland.org/proposal/?id=e62c2260-bdd1-11ed-8c13-518b5c1940be)
+
+* Buy cheapest at marketplace 60.009915316449394% 8,643,815 VP (123 votes)
+* Buy back price formula 34.15936902986106% 4,920,308 VP (48 votes)
+* Do not buy LAND 5.830715653689557% 839,855 VP (25 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [Should the DAO limit the max VP accounted in a vote from an address?](https://governance.decentraland.org/proposal/?id=561c24f0-bd03-11ed-8c13-518b5c1940be)
 
@@ -105,7 +122,5 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
-* [Formal Pathway for DAO Request for Information (RFI) from the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=57d7a630-be38-11ed-8c13-518b5c1940be)
-* [Should the DAO Buy Back LAND?](https://governance.decentraland.org/proposal/?id=e62c2260-bdd1-11ed-8c13-518b5c1940be)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

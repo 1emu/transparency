@@ -81,7 +81,5 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
-* [Formal Pathway for DAO Request for Information (RFI) from the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=57d7a630-be38-11ed-8c13-518b5c1940be)
-* [Should the DAO Buy Back LAND?](https://governance.decentraland.org/proposal/?id=e62c2260-bdd1-11ed-8c13-518b5c1940be)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
