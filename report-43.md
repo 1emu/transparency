@@ -124,6 +124,8 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Telegram Group exclusively for landowners](https://governance.decentraland.org/proposal/?id=cf1364a0-ca81-11ed-8b08-0d4504ab75fe)
+* [Add multiple languages to Decentraland Documentation (docs.decentraland.org)](https://governance.decentraland.org/proposal/?id=e7b56cf0-ca73-11ed-8b08-0d4504ab75fe)
 * [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
 * [DAO Strategy and Roadmap](https://governance.decentraland.org/proposal/?id=8f846090-c811-11ed-a454-057e86adfb11)
 
