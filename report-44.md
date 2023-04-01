@@ -100,6 +100,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=9b270cc0-d042-11ed-9cb9-2563bc989482) (Higher Tier)
 * [MetaFiends – viral attraction of new users to Decentraland.](https://governance.decentraland.org/proposal/?id=79bb8700-cf11-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Long-Term Standard Wearables Production](https://governance.decentraland.org/proposal/?id=a87fce90-cec9-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Scalability Upgrade for Decentraland: Implementing Rollup Solutions](https://governance.decentraland.org/proposal/?id=a0ab8b20-cb5c-11ed-8b08-0d4504ab75fe) (Higher Tier)
@@ -117,6 +118,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Project Amsterdam props Open-Source](https://governance.decentraland.org/proposal/?id=da3dd100-cfe8-11ed-9cb9-2563bc989482)
 * [New Emotes Feature](https://governance.decentraland.org/proposal/?id=3e4bd900-ce7f-11ed-8b08-0d4504ab75fe)
 * [Should Maserphaz be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c6768330-ce29-11ed-8b08-0d4504ab75fe)
 * [Should Serena Elis be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=7dad6510-ce29-11ed-8b08-0d4504ab75fe)
