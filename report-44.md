@@ -98,6 +98,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Create personalized AI NPCs to expand Decentland&#39;s metaverse ecosystem](https://governance.decentraland.org/proposal/?id=b09ce8a0-db3b-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [Second Escape Room: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=b92dbd80-da43-11ed-a302-91aa98f8d7a4) (Lower Tier)
 * [Botanica crypto school: An educational course about the metaverses.](https://governance.decentraland.org/proposal/?id=90e4fec0-d9e8-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Integrating Decentraland with Leading E-commerce Platforms](https://governance.decentraland.org/proposal/?id=04f1cd70-d8d6-11ed-bfff-7567e61aeee0) (Higher Tier)
@@ -110,7 +111,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 * [[Resubmittion] Bridg3 Hackathon:  Advancing Decentraland&#39;s Educational Impact](https://governance.decentraland.org/proposal/?id=a923aef0-d317-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Decentraland News and Events Coverage for Spanish Audiences](https://governance.decentraland.org/proposal/?id=774e5670-d315-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
-* [A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=9b270cc0-d042-11ed-9cb9-2563bc989482) (Higher Tier)
 
 ## Names Bans
 
@@ -120,11 +120,11 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Organizational Chart for Decentraland DAO](https://governance.decentraland.org/proposal/?id=4f53c760-dac0-11ed-a302-91aa98f8d7a4)
 * [Proposal for Recognition of Decentraland in Future Grant Recipient Projects (POLL)](https://governance.decentraland.org/proposal/?id=d1e5ff30-da30-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
 * [District X: Contentious Leadership](https://governance.decentraland.org/proposal/?id=c0e5dd50-d895-11ed-bfff-7567e61aeee0)
-* [Connecting Decentraland with Ready Player Me](https://governance.decentraland.org/proposal/?id=92440c10-d6d3-11ed-bfff-7567e61aeee0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
