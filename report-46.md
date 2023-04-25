@@ -106,10 +106,13 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -31, -27: [The Land of Nail Art](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
+* 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=f0609700-e2ea-11ed-ae6b-bdc7e2b26a35)
 * -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=75df71a0-e212-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
+* [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 * [Meta GamiMall Expansion &amp; Empowerment (2nd Submission)](https://governance.decentraland.org/proposal/?id=6ca30350-df00-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [A novel emotional feedback interface for In-World feedback and ratings.](https://governance.decentraland.org/proposal/?id=80788b40-def9-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [Developer Support Bot Trained On Decentraland Documents](https://governance.decentraland.org/proposal/?id=07d783d0-de5e-11ed-93f4-8f8fa30ce0cd) (Lower Tier)
@@ -119,7 +122,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 * [Integrating Decentraland with Leading E-commerce Platforms](https://governance.decentraland.org/proposal/?id=04f1cd70-d8d6-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Provide live and interactive streaming video content to Decentraland users.](https://governance.decentraland.org/proposal/?id=0a46c310-d8a0-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Ur-Hackathon 3.0](https://governance.decentraland.org/proposal/?id=75d936a0-d87b-11ed-bfff-7567e61aeee0) (Lower Tier)
-* [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=0db6e270-d7c2-11ed-bfff-7567e61aeee0) (Higher Tier)
 
 ## Names Bans
 
@@ -129,5 +131,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Should the DAO increase Polygon GWEI Threshold?](https://governance.decentraland.org/proposal/?id=a7327de0-e2dc-11ed-ae6b-bdc7e2b26a35)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
