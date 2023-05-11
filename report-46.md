@@ -161,7 +161,7 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
-* [Should we remove redundant endpoints from Catalyst?](https://governance.decentraland.org/proposal/?id=24f524f0-eb50-11ed-ac2d-876c6fc9416f)
+* [Community Feedback on Security Advisory Board](https://governance.decentraland.org/proposal/?id=ba9168e0-ef4f-11ed-813c-b353c3943eab)
+* [Should we remove redundant endpoints from Catalyst? ll](https://governance.decentraland.org/proposal/?id=709968b0-ef44-11ed-813c-b353c3943eab)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
