@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -47,7 +47,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 1, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
+
+* Yes 72.83731706049704% 6,980,660 VP (50 votes)
+* No 20.790145479306663% 1,992,508 VP (28 votes)
+* Abstain 6.372537460196291% 610,738 VP (30 votes)
 
 
 #### [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
@@ -124,6 +131,7 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* -32, -30: [/////////](https://governance.decentraland.org/proposal/?id=35ce1300-f10d-11ed-9bc2-e5fe350d0c93)
 * 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=08dc6f90-ec26-11ed-ac2d-876c6fc9416f)
 
 ## Grants
@@ -139,7 +147,6 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 * [[Resubmission] Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=971a6d00-e71e-11ed-b8f1-75dbe089d333) (Higher Tier)
 * [Grant to Buy Land for New Devoloper (Mayhemv01)](https://governance.decentraland.org/proposal/?id=552e6d80-e71c-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [Continued growth of Wilderness P2E and $ELO Chess Club](https://governance.decentraland.org/proposal/?id=724f7f00-e6f2-11ed-b8f1-75dbe089d333) (Higher Tier)
-* [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
 
 ## Names Bans
 
