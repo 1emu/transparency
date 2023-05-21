@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,20 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 
 ## Polls
+
+#### [Should the LandWorks protocol be recognized as a renting protocol by Decentraland so landowners can keep their VP?](https://governance.decentraland.org/proposal/?id=723984c0-f3d1-11ed-9bc2-e5fe350d0c93)
+
+* Yes 99.67949335852403% 1,654,552 VP (51 votes)
+* No 0.05512473250949471% 915 VP (1 votes)
+* Invalid question/options 0.2653819089664745% 4,405 VP (2 votes)
+
+
+#### [Should we offer an add-on repo for fashion creators?](https://governance.decentraland.org/proposal/?id=5ead4f30-f346-11ed-9bc2-e5fe350d0c93)
+
+* YES 99.73945215664105% 1,813,738 VP (58 votes)
+* NO 0.21012100242180815% 3,821 VP (3 votes)
+* Invalid question/options 0.050426840937136376% 917 VP (2 votes)
+
 
 #### [Do you support the creation of the Decentraland Ambassador Program?](https://governance.decentraland.org/proposal/?id=52de99e0-f27c-11ed-9bc2-e5fe350d0c93)
 
@@ -72,7 +86,5 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 * [Unlocking the Power of Portable Experiences](https://governance.decentraland.org/proposal/?id=9a44f1b0-f503-11ed-9bc2-e5fe350d0c93)
 * [Decentraland DAO Wearable Creation Contest: Preproposal Poll](https://governance.decentraland.org/proposal/?id=b6d9e9e0-f457-11ed-9bc2-e5fe350d0c93)
 * [Should we remove redundant endpoints from Catalyst? lll](https://governance.decentraland.org/proposal/?id=cd182780-f41b-11ed-9bc2-e5fe350d0c93)
-* [Should the LandWorks protocol be recognized as a renting protocol by Decentraland so landowners can keep their VP?](https://governance.decentraland.org/proposal/?id=723984c0-f3d1-11ed-9bc2-e5fe350d0c93)
-* [Should we offer an add-on repo for fashion creators?](https://governance.decentraland.org/proposal/?id=5ead4f30-f346-11ed-9bc2-e5fe350d0c93)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

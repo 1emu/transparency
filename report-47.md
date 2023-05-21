@@ -188,7 +188,5 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 * [Unlocking the Power of Portable Experiences](https://governance.decentraland.org/proposal/?id=9a44f1b0-f503-11ed-9bc2-e5fe350d0c93)
 * [Decentraland DAO Wearable Creation Contest: Preproposal Poll](https://governance.decentraland.org/proposal/?id=b6d9e9e0-f457-11ed-9bc2-e5fe350d0c93)
 * [Should we remove redundant endpoints from Catalyst? lll](https://governance.decentraland.org/proposal/?id=cd182780-f41b-11ed-9bc2-e5fe350d0c93)
-* [Should the LandWorks protocol be recognized as a renting protocol by Decentraland so landowners can keep their VP?](https://governance.decentraland.org/proposal/?id=723984c0-f3d1-11ed-9bc2-e5fe350d0c93)
-* [Should we offer an add-on repo for fashion creators?](https://governance.decentraland.org/proposal/?id=5ead4f30-f346-11ed-9bc2-e5fe350d0c93)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
