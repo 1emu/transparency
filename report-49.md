@@ -75,6 +75,7 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [DECENTRALAND UNIVERSITY CLUB](https://governance.decentraland.org/proposal/?id=4a9b50d0-0851-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [A dedicated reporter will publish 50 articles about Decentraland for 120 days](https://governance.decentraland.org/proposal/?id=93bc8120-067c-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Understanding and Improving the Governance Participation in Decentraland](https://governance.decentraland.org/proposal/?id=725a1020-061c-11ee-8f51-bb3157c3bc20) (Lower Tier)
