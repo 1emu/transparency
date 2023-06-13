@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,21 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Do you support Worlds rebranding to DreamSpace ?](https://governance.decentraland.org/proposal/?id=2a137a40-0531-11ee-8f51-bb3157c3bc20)
+
+* YES 0.4435943082919214% 24,995 VP (12 votes)
+* NO 78.97221000121924% 4,449,810 VP (41 votes)
+* Invalid question/options 20.584195690488837% 1,159,848 VP (6 votes)
+
+
+#### [Should we continue development of 2dcl, the 2d client for Decentraland?](https://governance.decentraland.org/proposal/?id=1c22a480-03f4-11ee-8f51-bb3157c3bc20)
+
+* Yes, as a year-long project 16.25242409288738% 657,380 VP (31 votes)
+* Yes, as a series of smaller grants (3/4mo) 58.026157952458604% 2,347,049 VP (16 votes)
+* No 25.721417954654015% 1,040,383 VP (13 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Allow builder to support non foundation servers for worlds deployments](https://governance.decentraland.org/proposal/?id=02bd44d0-ff23-11ed-8e4f-8db7948b5171)
 
 * Yes 99.98202313727978% 2,269,176 VP (75 votes)
@@ -75,6 +90,8 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [DCL Viral Social Media Awareness Campaign](https://governance.decentraland.org/proposal/?id=1b0750f0-09bc-11ee-bb17-db98a4ce871d) (Lower Tier)
+* [Create a metaverse experience center to learn, create &amp; shop in Bogotá, Colombia](https://governance.decentraland.org/proposal/?id=095522d0-0942-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DECENTRALAND UNIVERSITY CLUB](https://governance.decentraland.org/proposal/?id=4a9b50d0-0851-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [A dedicated reporter will publish 50 articles about Decentraland for 120 days](https://governance.decentraland.org/proposal/?id=93bc8120-067c-11ee-8f51-bb3157c3bc20) (Lower Tier)
@@ -85,7 +102,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Simpfi AI Endpoint Integration With Decentraland](https://governance.decentraland.org/proposal/?id=1cd5ddf0-ffcd-11ed-8e4f-8db7948b5171) (Higher Tier)
-* [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
 
 ## Names Bans
 
@@ -97,6 +113,5 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 * [Should DAO Implement the New Branding Created by a Grant Proposal ?](https://governance.decentraland.org/proposal/?id=b006a770-06fe-11ee-bb17-db98a4ce871d)
 * [Grant Support Squad (GSS) Guidelines and Accountability Framework | Revocation Trial.](https://governance.decentraland.org/proposal/?id=edbaa830-0674-11ee-8f51-bb3157c3bc20)
-* [Do you support Worlds rebranding to DreamSpace ?](https://governance.decentraland.org/proposal/?id=2a137a40-0531-11ee-8f51-bb3157c3bc20)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
