@@ -107,6 +107,7 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 18, -66: [Cheap Rare Estates](https://governance.decentraland.org/proposal/?id=91f46220-0e0d-11ee-bb17-db98a4ce871d)
 
 ## Grants
 
@@ -122,7 +123,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * [3D Labyrinth  - Follow up](https://governance.decentraland.org/proposal/?id=b44758e0-0602-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [XFounders Boot Camp. Startup school for Web3 Startups.](https://governance.decentraland.org/proposal/?id=ee5b8fe0-0573-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
-* [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
 
 ## Names Bans
 
@@ -132,7 +132,5 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [Should the Worlds Feature be renamed?](https://governance.decentraland.org/proposal/?id=788a7410-0a38-11ee-bb17-db98a4ce871d)
-* [Should Decentraland transition to a single realm?](https://governance.decentraland.org/proposal/?id=8d531190-0a10-11ee-bb17-db98a4ce871d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
